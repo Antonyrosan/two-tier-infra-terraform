@@ -9,7 +9,7 @@ This project demonstrates the deployment of a highly available and scalable two-
 
 ## 📌 Project Architecture
 
-![Architecture Diagram](screenshot/architecture.png)
+![Architecture Diagram](Screenshots/architecture.png)
 
 The architecture is split across **two Availability Zones** for high availability and fault tolerance. Components include:
 
