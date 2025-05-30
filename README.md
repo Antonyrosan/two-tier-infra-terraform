@@ -69,7 +69,7 @@ The architecture is split across **two Availability Zones** for high availabilit
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/terraform-aws-2tier-app.git
+   git clone https://github.com/Antonyrosan/two-tier-infra-terraform.git
    cd terraform-aws-2tier-app
 
 Initialize Terraform:
